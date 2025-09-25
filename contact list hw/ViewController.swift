@@ -13,9 +13,12 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var TextField1: UITextField!
     
+    
     @IBOutlet weak var TextField2: UITextField!
     
+    
     @IBOutlet weak var TextField3: UITextField!
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
